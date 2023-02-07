@@ -1,0 +1,20 @@
+body{
+  font-size: 15px;
+  font-family: 'Roboto', sans-serif;
+  
+}
+.navbar{
+  background: rgb(217, 217, 226);
+  
+  
+}
+.backimglog{
+  background:white;
+  padding: 10px;
+  border-radius: 10%;
+}
+.backimg{
+  background:#ff3e66;
+  border-radius: 50%;
+  
+}
